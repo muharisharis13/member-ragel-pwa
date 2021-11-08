@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a6a31d5.chunk.css",
+    "main.js": "/static/js/main.e300c207.chunk.js",
+    "main.js.map": "/static/js/main.e300c207.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b6ed9f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b6ed9f0.js.map",
+    "static/css/2.7ff8626e.chunk.css": "/static/css/2.7ff8626e.chunk.css",
+    "static/js/2.680022cf.chunk.js": "/static/js/2.680022cf.chunk.js",
+    "static/js/2.680022cf.chunk.js.map": "/static/js/2.680022cf.chunk.js.map",
+    "static/js/3.f69905ef.chunk.js": "/static/js/3.f69905ef.chunk.js",
+    "static/js/3.f69905ef.chunk.js.map": "/static/js/3.f69905ef.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/2.7ff8626e.chunk.css.map": "/static/css/2.7ff8626e.chunk.css.map",
+    "static/css/main.3a6a31d5.chunk.css.map": "/static/css/main.3a6a31d5.chunk.css.map",
+    "static/js/2.680022cf.chunk.js.LICENSE.txt": "/static/js/2.680022cf.chunk.js.LICENSE.txt",
+    "static/media/57-577113_photo-wallpaper-makeup-shadows-cosmetics-blush-backgrounds-makeup.cc8fd0c3.png": "/static/media/57-577113_photo-wallpaper-makeup-shadows-cosmetics-blush-backgrounds-makeup.cc8fd0c3.png",
+    "static/media/Image 3.84bfb442.png": "/static/media/Image 3.84bfb442.png",
+    "static/media/JNE.4bb32f5c.png": "/static/media/JNE.4bb32f5c.png",
+    "static/media/Logo HD.bfe2f0be.png": "/static/media/Logo HD.bfe2f0be.png",
+    "static/media/Ninja Xpress.b577e476.png": "/static/media/Ninja Xpress.b577e476.png",
+    "static/media/WhatsApp Image 2021-06-22 at 22.09.57.17a552ff.jpeg": "/static/media/WhatsApp Image 2021-06-22 at 22.09.57.17a552ff.jpeg",
+    "static/media/attractive-beautiful-casual-1082962.29866266.png": "/static/media/attractive-beautiful-casual-1082962.29866266.png",
+    "static/media/banner.eb3d5253.jpg": "/static/media/banner.eb3d5253.jpg",
+    "static/media/bca.80fd3799.svg": "/static/media/bca.80fd3799.svg",
+    "static/media/clinic.902c51e8.jpeg": "/static/media/clinic.902c51e8.jpeg",
+    "static/media/hero_overlay.2c53d4c0.jpg": "/static/media/hero_overlay.2c53d4c0.jpg",
+    "static/media/jnt.3a65e0d5.png": "/static/media/jnt.3a65e0d5.png",
+    "static/media/user-ktp.7322d149.jpg": "/static/media/user-ktp.7322d149.jpg",
+    "static/media/user.7f53579e.jpg": "/static/media/user.7f53579e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b6ed9f0.js",
+    "static/css/2.7ff8626e.chunk.css",
+    "static/js/2.680022cf.chunk.js",
+    "static/css/main.3a6a31d5.chunk.css",
+    "static/js/main.e300c207.chunk.js"
+  ]
+}
